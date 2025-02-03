@@ -1,0 +1,11 @@
+{
+  "name": "paymentprocessing",
+  "version": "1.0.0",
+  "description": "This lmabda will hit payment endpoint for payment processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Shukla",
+  "license": "ISC"
+}

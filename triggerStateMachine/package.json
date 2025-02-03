@@ -1,0 +1,14 @@
+{
+  "name": "triggerstatemachine",
+  "version": "1.0.0",
+  "description": "This lambda will trigger our order processing state machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sfn": "^3.738.0"
+  }
+}
